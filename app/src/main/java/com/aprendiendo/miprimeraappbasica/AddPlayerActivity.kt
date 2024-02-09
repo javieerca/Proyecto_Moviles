@@ -26,7 +26,7 @@ class AddPlayerActivity : AppCompatActivity() {
 
         binding.saveButton.setOnClickListener {
 
-            val player = Player(    binding.numberEditText.text.toString().toInt(),
+            val player = Player(    binding.numberEditText.text.toString().toInt(), //El id será el numero del jugador
                                     binding.nameEditText.text.toString(),
                                     binding.numberEditText.text.toString().toInt(),
                                     binding.positionSpinner.selectedItem.toString()
