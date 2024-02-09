@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MiPrimeraApp</string>
+    <string name="equipo_1">Equipo 1</string>
+    <string name="jugador_1">Jugador 1</string>
+    <string name="jugador_2">Jugador 2</string>
+    <string name="jugador_3">Jugador 3</string>
+
+    <string name="editar">Editar</string>
+    <string name="todo">TODO</string>
+</resources>
